@@ -1,0 +1,8 @@
+spam	meat
+tomato sauce	can
+soup	can
+pam	can
+banana	produce
+apple	produce
+grapes	produce
+beef	meat
