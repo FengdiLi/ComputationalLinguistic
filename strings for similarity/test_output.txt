@@ -1,0 +1,6 @@
+Semantic textual similarity for stsbenchmark/sts-test.csv
+NIST correlation: 0.469
+BLEU correlation: 0.353
+Word Error Rate correlation: -0.358
+Longest common substring correlation: 0.347
+Levenshtein distance correlation: -0.039
